@@ -27,6 +27,10 @@ Objective: Compare random forest classifiers, gradient boosted trees, and AdaBoo
 #### Logistic Regression
 Objective: Compare several logistic regression models to find the best fit model that can predict which medication to give a patient according to their test results.
 
+### Clustering Jerárchico (ES)
+#### Hierarchical Clustering
+Objective: Use a hierarchical clustering model and dendograms to group customers and recommend products based on past customers' purchases.
+
 ## Connect with Me
 I'm always looking for feedback and collaboration. 
 - Feel free to find me on LinkedIn: [Katlyn Goeujon-Mackness](www.linkedin.com/in/katlyngm-datos)
