@@ -31,6 +31,10 @@ Objective: Compare several logistic regression models to find the best fit model
 #### Hierarchical Clustering
 Objective: Use a hierarchical clustering model and dendograms to group customers and recommend products based on past customers' purchases.
 
+### Clasificación K-Medias (ES)
+#### K-Means Classification
+Objective: Use K-Means classification methods to group flower records in the Iris database.
+
 ## Connect with Me
 I'm always looking for feedback and collaboration. 
 - Feel free to find me on LinkedIn: [Katlyn Goeujon-Mackness](www.linkedin.com/in/katlyngm-datos)
