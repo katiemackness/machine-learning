@@ -1,42 +1,48 @@
 # Machine Learning Examples
-This repository is a collection of machine learning projects and code examples using a variety of supervised and unsupervised machine learning algorithms. It is intended to showcase the range the depth of my skills in machine learning programming with Python. Most examples are given in Spanish.
 
-Este repositorio es una colección de proyectos de aprendizaje automático y ejemplos de código que utilizan una variedad de algoritmos de aprendizaje automático supervisados ​​y no supervisados. Su objetivo es mostrar la variedad y profundidad de mis habilidades en programación de aprendizaje automático con Python. La mayoría de los ejemplos se dan en español.
+Welcome to my collection of machine learning projects! This repository showcases various supervised and unsupervised machine learning algorithms implemented in Python. The goal is to demonstrate my expertise in machine learning programming using popular libraries like NumPy and scikit-learn.
+
+**Note:** Most examples are provided in Spanish.
 
 ## About Me
-Hello! My name is Katlyn Goeujon-Mackness, a Python developer and data scientist with experience in many facets of Python and popular libraries. I am most interested in machine learning algorithms and exploring the breadth of what libraries like NumPy and scikit-learn have to offer.
+Hello! I'm **Katlyn Goeujon-Mackness**, a Python developer and data scientist passionate about machine learning algorithms. I enjoy exploring the vast capabilities of Python and its powerful libraries.
 
 ## Repository Structure
-### Regresión Regularizada con Ridge y Lasso (ES)
-#### Regularlized Regression with Ridge and Lasso techniques.
-Objective: Compare Ridge (L2) and Lasso (L1) regularlized regression techniques compared to multiple linear regression to find the best fit model for the data.
 
-### Máquina de vectores de soporte (ES)
-#### Support vector machine 
-Objective: Using SVM, compare different types of kernels to find the most accurate model in order to find out what may be associated with employees leaving a particular employee.
+Each notebook in this repository focuses on a different machine learning technique, with objectives clearly defined for each project:
 
-### Arboles de Decisión (ES)
-#### Decision Trees
-Objective: Construct various decision tree models using different criteria to find the best fit that can predict the best medication to give a patient according to their test results.
+- **Regresión Regularizada con Ridge y Lasso (ES)**  
+  *Regularized Regression with Ridge and Lasso techniques*  
+  Objective: Compare Ridge (L2) and Lasso (L1) regularized regression techniques with multiple linear regression to determine the best model fit.
 
-### Modelos Ensambles (ES)
-#### Ensemble Models
-Objective: Compare random forest classifiers, gradient boosted trees, and AdaBoost classifier to find the best fit model that can predict which medication to give a patient according to their test results. 
+- **Máquina de Vectores de Soporte (ES)**  
+  *Support Vector Machine (SVM)*  
+  Objective: Compare different kernel types in SVM to create the most accurate model for predicting employee attrition.
 
-### Regresión Logística (ES)
-#### Logistic Regression
-Objective: Compare several logistic regression models to find the best fit model that can predict which medication to give a patient according to their test results.
+- **Árboles de Decisión (ES)**  
+  *Decision Trees*  
+  Objective: Evaluate various decision tree models using different criteria to predict the best medication for a patient based on test results.
 
-### Clustering Jerárchico (ES)
-#### Hierarchical Clustering
-Objective: Use a hierarchical clustering model and dendograms to group customers and recommend products based on past customers' purchases.
+- **Modelos Ensambles (ES)**  
+  *Ensemble Models*  
+  Objective: Compare Random Forest, Gradient Boosted Trees, and AdaBoost classifiers to determine the best model for predicting medication prescriptions.
 
-### Clasificación K-Medias (ES)
-#### K-Means Classification
-Objective: Use K-Means classification methods to group flower records in the Iris database.
+- **Regresión Logística (ES)**  
+  *Logistic Regression*  
+  Objective: Compare multiple logistic regression models to predict the best medication recommendation for a patient.
+
+- **Clustering Jerárquico (ES)**  
+  *Hierarchical Clustering*  
+  Objective: Utilize hierarchical clustering models and dendrograms to group customers and recommend products based on past purchases.
+
+- **Clasificación K-Medias (ES)**  
+  *K-Means Classification*  
+  Objective: Apply K-Means classification methods to cluster flower records in the Iris dataset.
 
 ## Connect with Me
-I'm always looking for feedback and collaboration. 
-- Feel free to find me on LinkedIn: [Katlyn Goeujon-Mackness](www.linkedin.com/in/katlyngm-datos)
-- Or send me an email: macknessk@gmail.com
+I'm always open to feedback and collaboration! Feel free to reach out:
+- **LinkedIn:** Katlyn Goeujon-Mackness
+- **Email:** [macknessk@gmail.com](mailto:macknessk@gmail.com)
 
+## License
+This project is licensed under the **MIT License**.
